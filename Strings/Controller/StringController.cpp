@@ -37,4 +37,7 @@ void StringController :: start()
     
     //compare(start)
     cout << "My name compared to my last name: " << myName.compare("Nilson") << endl;
+
+    int numbers [5] = {10, 20, 30, 40, 50};
+    double otherNumbers [5] = {1.1, 1.2, 1.3, 1.4, 1.5};
 }
